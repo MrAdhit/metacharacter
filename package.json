@@ -1,0 +1,33 @@
+{
+  "name": "metacharacter",
+  "version": "1.0.0",
+  "description": "Convert metacharacter to normal string",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrAdhit/metacharacter.git"
+  },
+  "keywords": [
+    "convert",
+    "metacharacter",
+    "to",
+    "normal",
+    "string",
+    "meta",
+    "character",
+    "chat",
+    "metachar"
+  ],
+  "author": "MrAdhit <me@mradhit.net>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/MrAdhit/metacharacter/issues"
+  },
+  "homepage": "https://github.com/MrAdhit/metacharacter#readme",
+  "devDependencies": {
+    "mocha": "^8.3.2"
+  }
+}
